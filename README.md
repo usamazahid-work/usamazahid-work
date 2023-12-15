@@ -177,18 +177,18 @@
 <table>
     <tr>
         <td>
-            <img src="https://github-profile-trophy.vercel.app/?username=usamazahid-work&row=3&column=4&no-bg=true"/>
+            <img src="https://github-profile-trophy.vercel.app/?username=usamazahid991&row=3&column=4&no-bg=true"/>
         </td>
         <td>
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=usamazahid-work"/>
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=usamazahid991"/>
         </td> 
     </tr>
     <tr>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api?username=usamazahid-work&count_private=true&show_icons=true&theme=tokyonight"/>
+            <img src="https://github-readme-stats.vercel.app/api?username=usamazahid991&count_private=true&show_icons=true&theme=tokyonight"/>
         </td>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usamazahid-work&langs_count=10&layout=compact&hide=php,scss,css,html,batchfile,gherkin,freemarker,xslt,tsql,ruby"/>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usamazahid991&langs_count=10&layout=compact&hide=php,scss,css,html,batchfile,gherkin,freemarker,xslt,tsql"/>
         </td>
     </tr>
 </table>
