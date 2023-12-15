@@ -1,31 +1,21 @@
 # Hello there 👋, I'm Usama Zahid
 
-### Software/DevOps/Cloud Engineer
+### Software Engineer/DevOps/Programmer
 
-- 🔭 I’m currently working on: __DevOps & Site Reliability Engineering__ 
-- 🌱 I’m currently learning: __Blockchain, Solidity Programming, Go__
-- 💬 Ask me about __DevOps, SRE, Cloud Engineering (AWS), IAC, CI/CD, Docker, Kubernetes, Software Dev...__
-- 🧧 Chinese name: __畢少謙__
-- ⚡ Fun fact: Having grew up in Scotland, I've never tasted Haggis
+- 🔭 I’m currently working on: __Angular, React, Ionic, Capacitor, Nodejs, Mangodb, Mysql__ 
+- 🌱 I’m currently learning:  __DevOps, Artificial Intelligence__
+- 💬 Ask me about __Programming Languages, DevOps, SRE, Cloud Engineering (AWS), CI/CD, Docker, Software Dev...__
 
 <br/>
 
 
 <table>
     <tr>
-        <th>My Blog</th>
-        <th>My Website</th>
-        <th>My CV</th>
+        <th>My Portfolio</th>
     </tr>
     <tr>
         <td>
-            <a href="https://colin-but.medium.com/"><img src="https://www.vectorlogo.zone/logos/medium/medium-ar21.svg"/></a>
-        </td>
-        <td>
-            <a href="https://colinbut.github.io/">🌐</a>
-        </td>
-        <td>
-            <a href="https://colinbut.github.io/online-resume">📃</a>
+            <a href="https://usamazahid991.github.io/Portfolio/">🌐</a>
         </td>
     </tr>
 </table>
@@ -33,10 +23,8 @@
 
 
 ### Contact me:
+<a href="https://www.linkedin.com/in/usama-zahid-723591148/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
 
-<a href="https://twitter.com/Colin_But"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" width="40" height="40"/></a>
-<a href="https://www.linkedin.com/in/colinbut/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
-<a href="https://www.pinterest.co.uk/colinbut"><img src="https://www.vectorlogo.zone/logos/pinterest/pinterest-icon.svg" width="40" height="40"/></a>
 
 ### Toolset
 
@@ -179,7 +167,7 @@
 
 ### Support my Work
 <br/>
-<a href="https://www.buymeacoffee.com/colinbut"><img src="https://www.vectorlogo.zone/logos/buymeacoffee/buymeacoffee-official.svg"/></a>
+<a href="https://www.buymeacoffee.com/usamazahid"><img src="https://www.vectorlogo.zone/logos/buymeacoffee/buymeacoffee-official.svg"/></a>
 
 
 <br />
